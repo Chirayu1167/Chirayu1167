@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Chirayu Mahajan
 
-<!--
-**Chirayu1167/Chirayu1167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student  
+💻 Interested in software development and machine learning  
+🐍 Mostly working with Python
 
-Here are some ideas to get you started:
+I like building things that are **clean, simple, and reliable**.  
+I care more about understanding fundamentals than chasing tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Focus Areas
+- Backend development & APIs  
+- Machine learning basics  
+- Automation & tooling  
+
+## 🧠 How I Work
+- ✨ Clean, readable code  
+- 🔧 Learn by building & fixing  
+- 📚 Quick to adapt to new tech  
+
+## 🎯 Looking For
+- Internships / entry-level roles  
+- Teams where I can learn and contribute
+  
+## 📫 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/chirayu-mahajan-390766309/
+- 📧 Email: mahajanchirayu1167@gmail.com
