@@ -1,10 +1,90 @@
-### 💫 About Me
-AI & software developer building intelligent systems that actually ship.
-Strong in Python, ML, and product-minded engineering.
-If it’s complex, I’m probably into it.
+# Chirayu Mahajan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chirayu.1167) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirayu-mahajan-390766309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahajanchirayu1167@gmail.com) 
+**Mostly Python, occasionally C, always trying to ship the thing instead of leaving it half-built.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+Right now that means computer vision fundamentals, a couple of backend projects, and figuring out how agents actually work under the hood.
+
+---
+
+## About
+
+BTech student, mostly self-taught past the coursework. My projects so far cover authentication infrastructure, a voice assistant, and an NLP preprocessing tool, and I'm now extending that into computer vision and agent-based systems.
+
+I tend to pick the version of a project that has more moving parts, even when a simpler version would technically satisfy the assignment — splitting Pay-Trust into two separate services instead of one was that kind of decision. I like the parts of a project where something breaks in a way the tutorial never mentioned — that's usually where I learn the most.
+
+---
+
+## Currently Learning
+
+- LLM agent architectures and tool-use orchestration
+- Computer vision fundamentals and model fine-tuning
+- Backend system design for AI-serving infrastructure
+
+---
+
+## Current Focus
+
+Right now I'm working on strengthening my computer vision fundamentals (OpenCV, image processing pipelines) and exploring how to combine vision models with language models in a single working system. Alongside that, I'm building out backend skills — APIs, real-time communication, deployment — so I can ship these systems myself instead of relying on someone else's infrastructure.
+
+---
+
+## Featured Projects
+
+**[Pay-Trust](https://github.com/Chirayu1167/Pay-Trust)**
+OTP-based payment authentication platform with a FastAPI backend and a separate WebSocket service for real-time session state. Splitting the WebSocket layer out from the FastAPI backend seemed like overkill until I actually had to debug a session going stale across both services at once.
+
+**[Phoenix AI Assistant](https://github.com/Chirayu1167/Pheonix-AI-Assistant)**
+Voice-first assistant with wake-word detection, speech recognition, and text-to-speech, wrapped in a desktop GUI. Kept the voice pipeline local instead of calling a cloud API for every step — the assistant feels faster, but I had to accept worse recognition accuracy than a cloud model would give.
+
+**[Neurix](https://neurix-nlp-001bychirayu.streamlit.app/)**
+NLP preprocessing tool — cleaning, tokenization, and structuring raw text into a form ready for downstream modeling. Wrote the preprocessing as its own module instead of a script I'd copy-paste, mostly because I was tired of rewriting the same cleaning logic for every new NLP idea.
+
+---
+
+## Engineering Interests
+
+Most of what pulls me in right now is vision and language models working together, and the backend work needed to actually run them somewhere other than my laptop.
+
+---
+
+## Technical Skills
+
+**Languages**
+Python · C · C++
+
+**AI / ML**
+NumPy · Pandas · scikit-learn · NLP · Data Processing
+
+**Computer Vision**
+OpenCV *(learning)*
+
+**Backend**
+FastAPI · Flask · REST APIs · WebSockets
+
+**Cloud & Deployment**
+AWS · Firebase · Railway · Render · Vercel · Cloudflare · Streamlit
+
+**Databases**
+MySQL
+
+**Developer Tools**
+Git · GitHub · Streamlit · Anaconda
+
+---
+
+## GitHub Activity
+
+![Chirayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirayu1167&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirayu1167&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## What I Want to Build Next
+
+I want to build something where a vision model and a language model are working on the same problem together, not just side by side. After that, I want to get better at the backend side of running these things — the parts that don't show up in a notebook.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/chirayu-mahajan-390766309) · [Email](mailto:mahajanchirayu1167@gmail.com)
