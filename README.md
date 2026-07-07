@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2D1B4E,100:6A11CB&height=260&section=header&text=Chirayu%20Mahajan&fontSize=56&fontColor=E6D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20Intern%20%40%20Tronocity%20Labs%20%7C%20LLM%20Systems%20%26%20Applied%20Machine%20Learning&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2D1B4E,100:6A11CB&height=200&section=header&text=Chirayu%20Mahajan&fontSize=50&fontColor=E6D9FF&fontAlignY=40"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=LLM+Memory+Systems+for+Multi-Agent+AI;Fraud+Detection+ML+%26+Real-Time+Risk+Engines;Python+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Backend+Systems;B.Tech+Artificial+Intelligence+%2B+B.S.+Data+Science" alt="Typing SVG" />
