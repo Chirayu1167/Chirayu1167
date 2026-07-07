@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2D1B4E,100:6A11CB&height=200&section=header&text=Chirayu%20Mahajan&fontSize=50&fontColor=E6D9FF&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A1A,100:DC2626&height=200&section=header&text=Chirayu%20Mahajan&fontSize=50&fontColor=F5F5F5&fontAlignY=40"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=LLM+Memory+Systems+for+Multi-Agent+AI;Fraud+Detection+ML+%26+Real-Time+Risk+Engines;Python+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Backend+Systems;B.Tech+Artificial+Intelligence+%2B+B.S.+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=LLM+Memory+Systems+for+Multi-Agent+AI;Fraud+Detection+ML+%26+Real-Time+Risk+Engines;Python+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Backend+Systems;B.Tech+Artificial+Intelligence+%2B+B.S.+Data+Science" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
-![BTech AI](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence-6A11CB?style=for-the-badge&logo=googlescholar&logoColor=white)
-![IIT Madras](https://img.shields.io/badge/B.S.-Data%20Science%2C%20IIT%20Madras-2D1B4E?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Tronocity](https://img.shields.io/badge/AI%20Developer%20Intern-Tronocity%20Labs-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)
-![Location](https://img.shields.io/badge/Pune%2FPimpri--Chinchwad-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Chirayu1167/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-mahajan-390766309/)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanchirayu1167@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirayu1167)
+![BTech AI](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence-DC2626?style=for-the-badge&logo=googlescholar&logoColor=white)
+![IIT Madras](https://img.shields.io/badge/B.S.-Data%20Science%2C%20IIT%20Madras-1A1A1A?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Tronocity](https://img.shields.io/badge/AI%20Developer%20Intern-Tronocity%20Labs-7F1D1D?style=for-the-badge&logo=vercel&logoColor=white)
+![Location](https://img.shields.io/badge/Pune%2FPimpri--Chinchwad-India-B91C1C?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chirayu1167&label=Profile%20Views&color=6A11CB&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Chirayu1167?label=Followers&style=for-the-badge&color=8B5CF6&logoColor=white)](https://github.com/Chirayu1167?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Chirayu1167?affiliations=OWNER&label=Stars&style=for-the-badge&color=A78BFA)](https://github.com/Chirayu1167?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Chirayu1167/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-mahajan-390766309/)
+[![Email](https://img.shields.io/badge/Email-991B1B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanchirayu1167@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirayu1167)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chirayu1167&label=Profile%20Views&color=DC2626&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Chirayu1167?label=Followers&style=for-the-badge&color=EF4444&logoColor=white)](https://github.com/Chirayu1167?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Chirayu1167?affiliations=OWNER&label=Stars&style=for-the-badge&color=F87171)](https://github.com/Chirayu1167?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 </div>
 
@@ -47,13 +47,13 @@ I am currently an **AI Developer Intern at Tronocity Labs**, where I contribute 
 
 **Open To**
 
-![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Engineer-6A11CB?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Researcher-8B5CF6?style=flat-square)
-![Open to Work](https://img.shields.io/badge/AI%20Engineer-A78BFA?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Artificial%20Intelligence%20Intern-7C3AED?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Assistant%20Roles-6D28D9?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Engineer-DC2626?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Researcher-EF4444?style=flat-square)
+![Open to Work](https://img.shields.io/badge/AI%20Engineer-F87171?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Artificial%20Intelligence%20Intern-B91C1C?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Assistant%20Roles-991B1B?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### Technical Skills
 
@@ -63,21 +63,21 @@ I am currently an **AI Developer Intern at Tronocity Labs**, where I contribute 
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Streamlit](https://img.shields.io/badge/Streamlit-6A11CB?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Streamlit](https://img.shields.io/badge/Streamlit-DC2626?style=flat-square&logo=streamlit&logoColor=white)
 
 **Backend & Databases**
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase) ![SQLite](https://img.shields.io/badge/SQLite-4C1D95?style=flat-square&logo=sqlite&logoColor=white)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase) ![SQLite](https://img.shields.io/badge/SQLite-7F1D1D?style=flat-square&logo=sqlite&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://img.shields.io/badge/Render-6A11CB?style=flat-square&logo=render&logoColor=white) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![VSCode](https://skillicons.dev/icons?i=vscode)
+![AWS](https://skillicons.dev/icons?i=aws) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://img.shields.io/badge/Render-DC2626?style=flat-square&logo=render&logoColor=white) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 **AI, ML, NLP & Data**
 
-![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://img.shields.io/badge/pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-6A11CB?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM%20Systems-6D28D9?style=flat-square&logo=anthropic&logoColor=white)
+![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://img.shields.io/badge/pandas-EF4444?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-DC2626?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-7F1D1D?style=flat-square&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-B91C1C?style=flat-square&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM%20Systems-991B1B?style=flat-square&logo=anthropic&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### AI / ML Expertise
 
@@ -94,7 +94,7 @@ I am currently an **AI Developer Intern at Tronocity Labs**, where I contribute 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### Featured Projects
 
@@ -172,7 +172,7 @@ A Python-based voice AI assistant featuring wake-word detection and a Tkinter gr
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### Experience
 
@@ -188,7 +188,7 @@ Contributing to Gigzs–Akhrot, a memory and context layer designed for multi-LL
 
 `LLM Systems` `Python` `NLP` `Backend Development` `Multi-Agent Architecture`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### Achievements
 
@@ -204,72 +204,72 @@ Contributing to Gigzs–Akhrot, a memory and context layer designed for multi-LL
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### Certifications
 
 **Cisco**
 
-![Introduction to Modern AI](https://img.shields.io/badge/Cisco-Introduction%20to%20Modern%20AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Python Essentials 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Introduction to Modern AI](https://img.shields.io/badge/Cisco-Introduction%20to%20Modern%20AI-6B7280?style=for-the-badge&logo=cisco&logoColor=white)
+![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-6B7280?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-6B7280?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Essentials 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-6B7280?style=for-the-badge&logo=cisco&logoColor=white)
 
 **IBM SkillsBuild**
 
-![Career Management Essentials](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-6A11CB?style=for-the-badge&logo=ibm&logoColor=white)
+![Career Management Essentials](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-DC2626?style=for-the-badge&logo=ibm&logoColor=white)
 
 **Anthropic**
 
-![Claude 101](https://img.shields.io/badge/Anthropic-Claude%20101-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 101](https://img.shields.io/badge/Anthropic-Claude%20101-EF4444?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6A11CB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Chirayu1167)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2D1B4E?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Chirayu1167)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Chirayu1167)
-[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Chirayu1167)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Chirayu1167)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1A1A1A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Chirayu1167)
+[![HackerRank](https://img.shields.io/badge/HackerRank-7F1D1D?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Chirayu1167)
+[![CodeChef](https://img.shields.io/badge/CodeChef-EF4444?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Chirayu1167)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chirayu1167&show_icons=true&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&icon_color=8B5CF6&text_color=E6D9FF" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Chirayu1167&theme=radical&hide_border=true&background=0D0417&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chirayu1167&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=F87171&icon_color=EF4444&text_color=F5F5F5&ring_color=DC2626" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Chirayu1167&theme=radical&hide_border=true&background=0A0A0A&stroke=EF4444&ring=F87171&fire=F87171&currStreakLabel=F5F5F5" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirayu1167&layout=compact&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=E6D9FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirayu1167&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=F87171&text_color=F5F5F5" width="49%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Chirayu1167&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Chirayu1167&theme=dark_lover&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirayu1167&theme=redical&bg_color=0D0417&color=A78BFA&line=8B5CF6&point=E6D9FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirayu1167&theme=radical&bg_color=0A0A0A&color=F87171&line=EF4444&point=F5F5F5&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:1A1A1A&height=4&width=900"/>
 
 ### Contribution Snake
 
@@ -279,21 +279,21 @@ Contributing to Gigzs–Akhrot, a memory and context layer designed for multi-LL
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,100:DC2626&height=4&width=900"/>
 
 ### Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-mahajanchirayu1167%40gmail.com-6A11CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanchirayu1167@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirayu%20Mahajan-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-mahajan-390766309/)
-[![GitHub](https://img.shields.io/badge/GitHub-Chirayu1167-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirayu1167)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Chirayu1167/Portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-mahajanchirayu1167%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahajanchirayu1167@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirayu%20Mahajan-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirayu-mahajan-390766309/)
+[![GitHub](https://img.shields.io/badge/GitHub-Chirayu1167-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirayu1167)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-EF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Chirayu1167/Portfolio)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2D1B4E,100:0F0817&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:1A1A1A,100:0A0A0A&height=140&section=footer"/>
 
 </div>
