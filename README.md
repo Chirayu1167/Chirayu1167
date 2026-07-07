@@ -255,7 +255,7 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chirayu1167&show_icons=true&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&icon_color=8B5CF6&text_color=E6D9FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirayu1167&theme=radical&hide_border=true&background=0D0417&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Chirayu1167&theme=radical&hide_border=true&background=0D0417&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=E6D9FF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirayu1167&layout=compact&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=E6D9FF" width="49%"/>
 
