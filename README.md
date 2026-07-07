@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2D1B4E,100:6A11CB&height=260&section=header&text=Chirayu%20Mahajan&fontSize=60&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0817,50:2D1B4E,100:6A11CB&height=260&section=header&text=Chirayu%20Mahajan&fontSize=56&fontColor=E6D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20Intern%20%40%20Tronocity%20Labs%20%7C%20LLM%20Systems%20%26%20Applied%20Machine%20Learning&descAlignY=58&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+intelligent+systems+that+ship;AI+%2F+ML+Engineer+%7C+Computer+Vision+%7C+GenAI;Python+%7C+Automation+%7C+Product+Engineering;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=LLM+Memory+Systems+for+Multi-Agent+AI;Fraud+Detection+ML+%26+Real-Time+Risk+Engines;Python+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+Backend+Systems;B.Tech+Artificial+Intelligence+%2B+B.S.+Data+Science" alt="Typing SVG" />
 </a>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
 
-![BTech](https://img.shields.io/badge/BTech-Artificial%20Intelligence%20%26%20Machine%20Learning-6A11CB?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Pune%2C%20India-2D1B4E?style=for-the-badge&logo=googlemaps&logoColor=white)
+![BTech AI](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence-6A11CB?style=for-the-badge&logo=googlescholar&logoColor=white)
+![IIT Madras](https://img.shields.io/badge/B.S.-Data%20Science%2C%20IIT%20Madras-2D1B4E?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Tronocity](https://img.shields.io/badge/AI%20Developer%20Intern-Tronocity%20Labs-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)
+![Location](https://img.shields.io/badge/Pune%2FPimpri--Chinchwad-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -24,32 +26,36 @@
 [![Followers](https://img.shields.io/github/followers/Chirayu1167?label=Followers&style=for-the-badge&color=8B5CF6&logoColor=white)](https://github.com/Chirayu1167?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Chirayu1167?affiliations=OWNER&label=Stars&style=for-the-badge&color=A78BFA)](https://github.com/Chirayu1167?tab=repositories)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
+
 </div>
 
----
+### About
 
-### 🧠 About Me
+I focus on building AI systems that are engineered for reliability, not just accuracy — calibrated, tested, and reasoned about end to end.
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/mikeshinoda1122/mikeshinoda1122/main/coding.gif" />
+I am currently pursuing a **Bachelor of Technology in Artificial Intelligence** at MIT Academy of Engineering, alongside a **Bachelor of Science in Data Science and Applications from the Indian Institute of Technology, Madras**, undertaken concurrently to broaden my technical foundation. I regularly participate in hackathons and datathons to apply this foundation to time-constrained, real-world engineering problems.
 
-I'm **Chirayu Mahajan**, a BTech Artificial Intelligence & Machine Learning engineer focused on turning research-grade ideas into shipped, production-ready software. My work sits at the intersection of **AI/ML engineering**, **computer vision**, **automation**, and **full stack product development**.
+I am currently an **AI Developer Intern at Tronocity Labs**, where I contribute to a persistent memory and context layer for multi-LLM agent systems, enabling state to be retained across models, sessions, and agent handoffs. My prior work includes leading the risk engine for a real-time UPI fraud-prevention system and developing forensic computer-vision tooling for AI-generated image detection.
 
-- 🔭 I build systems that detect, predict, and automate — from forensic AI-image classifiers to clinical risk models to voice-driven assistants.
-- 🧩 I care about **engineering discipline**: clean architecture, reproducible pipelines, and interfaces that are actually usable.
-- ⚙️ Comfortable owning a project end-to-end — data pipeline → model → API → deployed interface.
-- 🌱 Constantly iterating on GenAI, applied CV, and backend systems that scale beyond a notebook.
-- 💬 Ask me about computer vision forensics, LLM-powered assistants, or Streamlit/FastAPI product builds.
+**Areas of Focus**
 
-**🎯 Open To:**
+- Persistent memory and context architectures for multi-LLM and multi-agent systems
+- Real-time fraud detection and risk-scoring engines
+- Applied computer vision, with an emphasis on image forensics
+- End-to-end ownership of AI systems, from data pipeline through deployment
 
-![Open to Work](https://img.shields.io/badge/Open%20To-Software%20Engineering%20Roles-6A11CB?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-AI%2FML%20Engineering-8B5CF6?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Full%20Stack%20Development-A78BFA?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Freelance%20%2F%20Collaboration-7C3AED?style=flat-square)
+**Open To**
 
----
+![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Engineer-6A11CB?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Machine%20Learning%20Researcher-8B5CF6?style=flat-square)
+![Open to Work](https://img.shields.io/badge/AI%20Engineer-A78BFA?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Artificial%20Intelligence%20Intern-7C3AED?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Assistant%20Roles-6D28D9?style=flat-square)
 
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+
+### Technical Skills
 
 **Languages**
 
@@ -67,177 +73,159 @@ I'm **Chirayu Mahajan**, a BTech Artificial Intelligence & Machine Learning engi
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://img.shields.io/badge/Render-6A11CB?style=flat-square&logo=render&logoColor=white) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-**AI / ML & Data**
+**AI, ML, NLP & Data**
 
-![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://img.shields.io/badge/pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-6A11CB?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
+![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://img.shields.io/badge/pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-6A11CB?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-4C1D95?style=flat-square&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLM%20Systems-6D28D9?style=flat-square&logo=anthropic&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-### 🤖 AI / ML Expertise
+### AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Computer Vision** | ⭐⭐⭐⭐⭐ | Image forensics, AI-vs-real image classification, artifact-based detection pipelines |
-| **Applied Machine Learning** | ⭐⭐⭐⭐☆ | Classification & risk-prediction models, feature importance, calibration analysis |
-| **Generative AI** | ⭐⭐⭐⭐☆ | Prompt-driven assistants, voice-interactive AI agents, wake-word pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | Clinical & tabular data preprocessing, monotonicity & robustness checks |
-| **MLOps / Deployment** | ⭐⭐⭐☆☆ | Streamlit/FastAPI model serving, cloud deployment via Render & Vercel |
-| **NLP & Voice AI** | ⭐⭐⭐☆☆ | Voice assistants with wake-word detection and GUI integration |
+| **LLM Memory & Multi-Agent Systems** | ⭐⭐⭐⭐⭐ | Persistent context layers enabling state to survive across models, sessions, and agent handoffs |
+| **Fraud Detection ML** | ⭐⭐⭐⭐⭐ | Behavioral pattern analysis, device and session signals, real-time risk-scoring engines |
+| **Computer Vision** | ⭐⭐⭐⭐☆ | Image forensics and AI-generated image classification using artifact-based detection |
+| **Applied Machine Learning** | ⭐⭐⭐⭐☆ | Classification and risk-prediction models, feature importance, calibration analysis |
+| **Natural Language Processing** | ⭐⭐⭐⭐☆ | LLM pipelines, prompt engineering, context-window management |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | Data preprocessing and validation, including monotonicity and robustness checks |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <details>
-<summary><b>🕵️ Cyberfury — AI-Generated Image Forensics Suite</b></summary>
+<summary><b>PayTrust — Real-Time UPI Fraud Prevention System</b></summary>
 <br/>
 
-High-precision forensic suite designed to distinguish authentic photography from AI-generated imagery, engineered specifically to filter out false positives introduced by social-media compression and re-encoding artifacts.
+Winner, Nirman 2026 (organized by Google Developer Groups at MIT Academy of Engineering), developed with Team Diet Code. Conventional payment systems complete a transaction before assessing fraud risk; PayTrust evaluates transactions prior to approval, shifting fraud prevention from reactive to proactive.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, ML risk-scoring models, session and device fingerprinting |
+| **Scale** | Real-time evaluation pipeline delivered within a competitive hackathon timeframe |
+| **Performance** | Risk decisioning completed prior to payment approval |
+| **Security** | Behavioral pattern analysis combined with device and session signal verification |
+| **Impact** | Identifies and blocks suspicious UPI payments before completion |
+| **Repository** | [Pay-Trust](https://github.com/Chirayu1167/Pay-Trust) |
+
+As Team Lead and Backend Developer, I designed and implemented the core risk engine responsible for transaction analysis and decision logic, integrating behavioral analytics with device and session signals into a unified scoring pipeline.
+
+</details>
+
+<details>
+<summary><b>Synapse — Persistent Memory Layer for Multi-LLM Systems</b></summary>
+<br/>
+
+A memory and context architecture developed in parallel with my work at Tronocity Labs, addressing how AI systems can retain context across models, sessions, and agent handoffs rather than beginning each interaction from a stateless baseline.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, LLM orchestration, vector and context storage, backend APIs |
+| **Scale** | Persistent context layer designed to operate across multiple LLM sessions and agents |
+| **Performance** | Optimized for low-overhead context retrieval across model handoffs |
+| **Security** | Scoped, session-aware memory access across agent boundaries |
+| **Impact** | Enables AI pipelines to maintain continuity instead of relying on stateless, single-shot calls |
+| **Repository** | [Synapse](https://github.com/Chirayu1167/Synapse) |
+
+Synapse represents an independent exploration of a lightweight, reliable memory substrate suitable for production-grade multi-agent AI systems.
+
+</details>
+
+<details>
+<summary><b>Cyberfury — AI-Generated Image Forensics Suite</b></summary>
+<br/>
+
+A forensic suite designed to distinguish authentic photography from AI-generated imagery, engineered to reduce false positives introduced by social-media compression and re-encoding artifacts.
 
 | Aspect | Detail |
 |---|---|
 | **Stack** | Python, OpenCV, scikit-learn, NumPy |
-| **Scale** | Multi-artifact forensic pipeline across compression, noise & frequency domains |
-| **Performance** | Optimized for low false-positive rate on heavily compressed social-media images |
+| **Scale** | Multi-artifact forensic pipeline spanning compression, noise, and frequency domains |
+| **Performance** | Optimized for a low false-positive rate on heavily compressed social-media images |
 | **Security** | Forensic-grade signal analysis resistant to common obfuscation techniques |
-| **Impact** | Enables reliable authenticity checks for journalism, moderation & research use cases |
+| **Impact** | Supports reliable authenticity checks for journalism, content moderation, and research |
 | **Repository** | [Cyberfury](https://github.com/Chirayu1167/Cyberfury) |
 
-Built to solve a real gap in image-forensics tooling: most AI-detectors break down on compressed, re-shared social media images. Cyberfury layers multiple detection signals to stay robust where single-signal classifiers fail.
+Cyberfury addresses a common limitation in image-forensics tooling, where single-signal detectors degrade on compressed, re-shared social media images, by combining multiple detection signals for improved robustness.
 
 </details>
 
 <details>
-<summary><b>🗣️ Phoenix — AI Voice Assistant</b></summary>
+<summary><b>Phoenix — AI Voice Assistant</b></summary>
 <br/>
 
-A Python-based voice AI assistant with wake-word detection and a Tkinter GUI, designed for responsive, hands-free interaction.
+A Python-based voice AI assistant featuring wake-word detection and a Tkinter graphical interface, designed for responsive, hands-free interaction.
 
 | Aspect | Detail |
 |---|---|
-| **Stack** | Python, Tkinter, Speech Recognition, Wake-word Engine |
-| **Scale** | Real-time audio pipeline with continuous listening loop |
+| **Stack** | Python, Tkinter, speech recognition, wake-word engine |
+| **Scale** | Real-time audio pipeline with continuous listening capability |
 | **Performance** | Low-latency wake-word detection with responsive command execution |
-| **Security** | Local-first voice processing, no unnecessary data persistence |
-| **Impact** | Demonstrates end-to-end voice-interaction architecture beyond scripted demos |
+| **Security** | Local-first voice processing with minimal data persistence |
+| **Impact** | Demonstrates an end-to-end voice-interaction architecture |
 | **Repository** | [Pheonix-AI-Assistant](https://github.com/Chirayu1167/Pheonix-AI-Assistant) |
 
-Focused on making voice AI feel native rather than gimmicky — wake-word detection, natural command parsing, and a lightweight always-available GUI.
-
 </details>
 
-<details>
-<summary><b>🩺 Clinical Risk Audit Module — Diabetes Risk Prediction</b></summary>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-Interactive Streamlit application for diabetes risk prediction using patient clinical data, built with an emphasis on model transparency and clinical trustworthiness.
+### Experience
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Streamlit, scikit-learn, Pandas |
-| **Scale** | Full clinical-data pipeline from ingestion to interactive prediction |
-| **Performance** | Probability-calibrated outputs with calibration curve diagnostics |
-| **Security** | No PII persistence; session-scoped clinical data handling |
-| **Impact** | Surfaces feature importance, monotonicity checks & clinical alerts for safer model trust |
-| **Repository** | [Clinical-Risk-Audit-Module](https://github.com/Chirayu1167/Clinical-Risk-Audit-Module) |
+**AI Developer Intern — Tronocity Labs**
+`May 2026 – Present`
 
-Goes beyond a bare prediction number — includes calibration curves and monotonicity audits so clinicians can reason about *why* the model says what it says.
+Contributing to Gigzs–Akhrot, a memory and context layer designed for multi-LLM systems, built to allow context to persist across models, sessions, and agent handoffs rather than requiring each model to begin from a stateless baseline.
 
-</details>
+- Contributed to LLM pipelines and backend systems for a production multi-agent memory product
+- Designed scalable architecture supporting reasoning beyond individual model boundaries
+- Collaborated on internal benchmarking demonstrating measurable reductions in computational overhead and data storage requirements in targeted scenarios
+- Worked across the stack, from LLM orchestration through backend services
 
-<details>
-<summary><b>⚔️ The Shadow Below — Console Adventure Game</b></summary>
-<br/>
+`LLM Systems` `Python` `NLP` `Backend Development` `Multi-Agent Architecture`
 
-A console-based adventure game coded in Python featuring monsters, spells, weapons, and branching character roles.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python (OOP, state machines) |
-| **Scale** | Multi-role branching narrative with combat and inventory systems |
-| **Performance** | Lightweight terminal runtime, no external dependencies |
-| **Security** | N/A — standalone offline application |
-| **Impact** | Demonstrates strong fundamentals in OOP design and game-state logic |
-| **Repository** | [The_Shadow_Below](https://github.com/Chirayu1167/The_Shadow_Below) |
-
-A fundamentals-first project proving that great engineering discipline shows up even in a terminal game — clean state management, extensible systems, readable code.
-
-</details>
-
-<details>
-<summary><b>💳 Pay-Trust — Trust-Focused Payments Interface</b></summary>
-<br/>
-
-A web interface project focused on secure, trust-oriented payment flow presentation and UX.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Front-end payment flow with trust-signal UI components |
-| **Performance** | Lightweight static front-end, fast load times |
-| **Security** | UI patterns aligned with trust & transparency best practices |
-| **Impact** | Explores how interface design directly affects perceived transaction trust |
-| **Repository** | [Pay-Trust](https://github.com/Chirayu1167/Pay-Trust) |
-
-</details>
-
----
-
-### 💼 Experience
-
-**AI & Software Development — Independent Projects & Coursework**
-`BTech in Artificial Intelligence & Machine Learning`
-
-Ongoing academic and independent engineering work spanning computer vision, applied ML, and full-stack product builds, applying classroom theory to shipped, end-to-end systems.
-
-- Designed and built forensic computer-vision pipelines for AI-image detection
-- Developed clinically-oriented ML applications with calibration & interpretability tooling
-- Built voice-driven AI assistants integrating speech recognition and desktop GUIs
-- Shipped multiple full-stack and static web projects from design to deployment
-
-`Python` `Machine Learning` `Computer Vision` `Streamlit` `FastAPI` `Automation`
-
----
-
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Standing | Pursuing BTech in Artificial Intelligence & Machine Learning |
-| 🧪 Applied AI Builder | Multiple shipped CV & GenAI projects beyond coursework |
-| 🛠️ Full-Stack Ownership | End-to-end delivery across ML, backend, and frontend layers |
+| Winner, Nirman 2026 (GDG) | Developed PayTrust with Team Diet Code — a real-time UPI fraud-prevention risk engine |
+| AI Developer Intern Offer | Tronocity Labs — contributing to the Gigzs–Akhrot multi-LLM memory product |
+| IIT Madras Foundational Level | Completed Programming and Data Science coursework alongside primary B.Tech studies |
+| TechSprint 2026 Participant | Team CyberFury — Open Innovation Challenge, GDG at MIT Academy of Engineering |
+| Datathon 2026 Participant | Team Hellfire — MIT Academy of Engineering |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-### 📜 Certifications
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-6A11CB?style=for-the-badge&logo=googlescholar&logoColor=white)
+### Certifications
 
 **Cisco**
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Introduction to Modern AI](https://img.shields.io/badge/Cisco-Introduction%20to%20Modern%20AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Essentials 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+**IBM SkillsBuild**
 
-### 💻 Coding Profiles
+![Career Management Essentials](https://img.shields.io/badge/IBM%20SkillsBuild-Career%20Management%20Essentials-6A11CB?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Anthropic**
+
+![Claude 101](https://img.shields.io/badge/Anthropic-Claude%20101-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
+
+### Coding Profiles
 
 <div align="center">
 
@@ -248,9 +236,9 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -261,9 +249,9 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
 
-### 🏅 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -271,9 +259,9 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -281,9 +269,9 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2D1B4E&height=4&width=900"/>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -291,36 +279,9 @@ Ongoing academic and independent engineering work spanning computer vision, appl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:6A11CB&height=4&width=900"/>
 
-### 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Computer Vision & Forensic AI Detection
-  - LLM-powered Agentic Systems
-  - Scalable MLOps & Model Deployment
-
-Building:
-  - Cyberfury: AI-vs-real image forensic suite
-  - Clinical-grade interpretable ML applications
-  - Voice-first AI assistant tooling
-
-Exploring:
-  - Generative AI product design
-  - Edge & real-time inference pipelines
-  - Full-stack AI product architecture
-
-Open To:
-  - Software Engineering Roles
-  - AI / ML Engineering Roles
-  - Full Stack Development Opportunities
-  - Open Source Collaboration
-```
-
----
-
-### 📬 Connect
+### Connect
 
 <div align="center">
 
@@ -331,12 +292,8 @@ Open To:
 
 </div>
 
----
-
 <div align="center">
 
-*"Ship the intelligent thing — then make it robust enough to trust."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2D1B4E,100:0F0817&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2D1B4E,100:0F0817&height=140&section=footer"/>
 
 </div>
